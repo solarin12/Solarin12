@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Solarin12
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on building a website
+- 👀 I’m interested in cryptocurrency trading
+- 🌱 I’m currently learning a course on coursera about cryptocurrency trading 
+- 💞️ I’m looking to collaborate with anyone
 - 📫 reach me on WhatsApp +2349065211726
 
 <!---
