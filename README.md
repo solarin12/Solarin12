@@ -1,4 +1,4 @@
-### Hey there 👋, I'm [Your Name]!
+### Hey there 👋, I'm blessing!
 
 🎓 Chemistry graduate from Tai Solarin University of Education, Ijagun  
 💻 Aspiring FullStack Developer | Certified in HTML, CSS  
